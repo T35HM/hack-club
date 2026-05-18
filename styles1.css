@@ -1,0 +1,23 @@
+
+  <link rel="stylesheet" href="styles1.css" />
+p {
+  color: LightGreen;
+}
+
+img{
+  width: 200px;
+}
+img:hover{
+  transform: scale(0.3);
+  transform: rotate(90deg);
+  transform: scaleX(2) scaleY(2);
+  
+  box-shadow: 0 0 20px LightGreen;
+}
+body{
+  padding: 25px;
+  text-align: center;
+  background: green;
+  color:LightGreen;
+  font-family: "Shadows Into Light", cursive;
+}
