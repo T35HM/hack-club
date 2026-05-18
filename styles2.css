@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="styles2.css" />
+
+p {
+  color: blue;
+}
+body{
+  padding: 25px;
+  text-align: center;
+  background: green;
+  color:LightGreen;
+  font-family: "Shadows Into Light", cursive;
+}
+.title {
+	color:LightGreen;
+}
+
+img{
+  width: 200px;
+  style="display: block; margin: auto; width: 50%;">
+}
+
+img:hover{
+  transform: scale(1.1);
+  transform: rotate(90deg);
+  transform: scaleX(2) scaleY(2);
+  
+  box-shadow: 0 0 20px LightGreen;
+}
