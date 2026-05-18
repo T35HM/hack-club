@@ -1,0 +1,22 @@
+body{
+  padding: 25px;
+  text-align: center;
+  background: green;
+  color:#0d3d01;
+  font-family: "Shadows Into Light", cursive;
+}
+.title {
+	color:#b30214;
+}
+
+img{
+  width: 200px;
+}
+
+img:hover{
+  transform: scale(1.1);
+  transform: rotate(90deg);
+  transform: scaleX(2) scaleY(2);
+  
+  box-shadow: 0 0 20px LightGreen;
+}
